@@ -1,0 +1,5 @@
+[
+  {"id": 1, "title": "Flask", "description": "A lightweight Python web framework."},
+  {"id": 2, "title": "MongoDB Atlas", "description": "Cloud-hosted MongoDB database service."},
+  {"id": 3, "title": "REST API", "description": "An HTTP interface that returns structured JSON data."}
+]

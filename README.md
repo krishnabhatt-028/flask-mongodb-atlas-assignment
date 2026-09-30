@@ -71,5 +71,5 @@ GET /api
 
 **Krishna Bhatt**
 
-GitHub: https://github.com/krishnabhatt-028
+GitHub: https://github.com/krishnabhatt-028/flask-mongodb-atlas-assignment.git
 LinkedIn: https://linkedin.com/in/krishnabhatt0
